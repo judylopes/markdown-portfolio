@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+<ol>
+  Milk
+  Bread
+  Bananas
+  Apples
+  Chicken
+  Green Beans
+  Potatoes
+  Cereal
+  </ol>
